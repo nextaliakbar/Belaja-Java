@@ -1,0 +1,13 @@
+{"id":"1",
+  "name":"Akbar",
+  "hobbies":[
+    "Hobbies 1",
+    "Hobbies 2",
+    "Hobbies 3",
+    "Hobbies 4"
+  ],
+  "addres":{
+    "street":"Bangsalsari",
+    "city":"Jember",
+    "country":"Indonesia"}
+}

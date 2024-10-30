@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: programmer.zaman.now.test.ConditionsTest
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 0, Errors: 0, Skipped: 5, Time elapsed: 0.011 s - in programmer.zaman.now.test.ConditionsTest

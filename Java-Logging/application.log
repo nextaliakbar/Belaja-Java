@@ -1,0 +1,5 @@
+2024-07-25 12:01:24 TRACE [main] p.zaman.now.logging.LevelTest - Trace
+2024-07-25 12:01:24 DEBUG [main] p.zaman.now.logging.LevelTest - Debug
+2024-07-25 12:01:24 INFO  [main] p.zaman.now.logging.LevelTest - Info
+2024-07-25 12:01:24 WARN  [main] p.zaman.now.logging.LevelTest - Warn
+2024-07-25 12:01:24 ERROR [main] p.zaman.now.logging.LevelTest - Error

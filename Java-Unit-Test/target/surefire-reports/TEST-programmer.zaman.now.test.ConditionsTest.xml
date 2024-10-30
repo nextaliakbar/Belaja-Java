@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="programmer.zaman.now.test.ConditionsTest" time="0.011" tests="11" errors="0" skipped="5" failures="0">
+  <properties>
+    <property name="java.specification.version" value="20"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\usER\OneDrive\Documents\Learn\Java\java-unit-test\target\test-classes;C:\Users\usER\OneDrive\Documents\Learn\Java\java-unit-test\target\classes;C:\Users\usER\.m2\repository\org\junit\jupiter\junit-jupiter\5.11.0-M2\junit-jupiter-5.11.0-M2.jar;C:\Users\usER\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.11.0-M2\junit-jupiter-api-5.11.0-M2.jar;C:\Users\usER\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\usER\.m2\repository\org\junit\platform\junit-platform-commons\1.11.0-M2\junit-platform-commons-1.11.0-M2.jar;C:\Users\usER\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\usER\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.11.0-M2\junit-jupiter-params-5.11.0-M2.jar;C:\Users\usER\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.11.0-M2\junit-jupiter-engine-5.11.0-M2.jar;C:\Users\usER\.m2\repository\org\junit\platform\junit-platform-engine\1.11.0-M2\junit-platform-engine-1.11.0-M2.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Jakarta"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.vm.specification.version" value="20"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="group" value="integration-test"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-20\bin"/>
+    <property name="sun.java.command" value="C:\Users\usER\AppData\Local\Temp\surefire5311725800255851693\surefirebooter12606495822481198046.jar C:\Users\usER\AppData\Local\Temp\surefire5311725800255851693 2024-07-06T19-35-47_937-jvmRun1 surefire6282004953168707080tmp surefire_08169016380212411277tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\usER\OneDrive\Documents\Learn\Java\java-unit-test\target\test-classes;C:\Users\usER\OneDrive\Documents\Learn\Java\java-unit-test\target\classes;C:\Users\usER\.m2\repository\org\junit\jupiter\junit-jupiter\5.11.0-M2\junit-jupiter-5.11.0-M2.jar;C:\Users\usER\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.11.0-M2\junit-jupiter-api-5.11.0-M2.jar;C:\Users\usER\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\usER\.m2\repository\org\junit\platform\junit-platform-commons\1.11.0-M2\junit-platform-commons-1.11.0-M2.jar;C:\Users\usER\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\usER\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.11.0-M2\junit-jupiter-params-5.11.0-M2.jar;C:\Users\usER\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.11.0-M2\junit-jupiter-engine-5.11.0-M2.jar;C:\Users\usER\.m2\repository\org\junit\platform\junit-platform-engine\1.11.0-M2\junit-platform-engine-1.11.0-M2.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\usER"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2023-07-18"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-20"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\usER\OneDrive\Documents\Learn\Java\java-unit-test"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\usER\AppData\Local\Temp\surefire5311725800255851693\surefirebooter12606495822481198046.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="20.0.2+9-78"/>
+    <property name="user.name" value="usER"/>
+    <property name="stdout.encoding" value="Cp1252"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\usER\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\usER\AppData\Local\Temp\"/>
+    <property name="java.version" value="20.0.2"/>
+    <property name="user.dir" value="C:\Users\usER\OneDrive\Documents\Learn\Java\java-unit-test"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-20\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Files\cpp\bin\Intel64;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\xampp\php;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files (x86)\dotnet\;C:\Program Files\Maven\apache-maven-3.9.8\bin;C:\Users\usER\AppData\Local\Microsoft\WindowsApps;C:\Users\usER\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\usER\AppData\Roaming\npm;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="stderr.encoding" value="Cp1252"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="20.0.2+9-78"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="64.0"/>
+  </properties>
+  <testcase name="testRunOnlyOnWindows" classname="programmer.zaman.now.test.ConditionsTest" time="0"/>
+  <testcase name="testDisableOnJava20" classname="programmer.zaman.now.test.ConditionsTest" time="0">
+    <skipped message="Disabled on JRE version: 20.0.2"/>
+  </testcase>
+  <testcase name="testDisableRunOnWindows" classname="programmer.zaman.now.test.ConditionsTest" time="0">
+    <skipped message="Disabled on operating system: Windows 11"/>
+  </testcase>
+  <testcase name="testSystemProperties" classname="programmer.zaman.now.test.ConditionsTest" time="0.011"/>
+  <testcase name="testDisableForJreRange" classname="programmer.zaman.now.test.ConditionsTest" time="0">
+    <skipped message="Disabled on JRE version: 20.0.2"/>
+  </testcase>
+  <testcase name="testDisableOnDevProfile" classname="programmer.zaman.now.test.ConditionsTest" time="0"/>
+  <testcase name="testEnableOnJava20" classname="programmer.zaman.now.test.ConditionsTest" time="0"/>
+  <testcase name="testDisableOnJavaVendorOracle" classname="programmer.zaman.now.test.ConditionsTest" time="0">
+    <skipped message="System property [java.vendor] with value [Oracle Corporation] matches regular expression [Oracle Corporation]"/>
+  </testcase>
+  <testcase name="testEnabledOnDevProfile" classname="programmer.zaman.now.test.ConditionsTest" time="0">
+    <skipped message="Environment variable [PROFILE] does not exist"/>
+  </testcase>
+  <testcase name="testEnableForJreRange" classname="programmer.zaman.now.test.ConditionsTest" time="0"/>
+  <testcase name="testEnableOnJavaVendorOracle" classname="programmer.zaman.now.test.ConditionsTest" time="0"/>
+</testsuite>
